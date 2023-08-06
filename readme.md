@@ -1,6 +1,6 @@
 # Food Retail
 
-**Tech Stack :**
+**Base on :**
 PHP Native
 
 **Deskripsi :**
